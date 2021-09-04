@@ -15,7 +15,7 @@ public class ClientesApplication {
         return args -> {
 //            Cliente cliente = Cliente.builder()
 //                    .cpf("00000000000")
-//                    .nome("Jose Silva")
+//                    .nome("Jose Silvaaaa")
 //                    .build();
 //            repository.save(cliente);
         };
