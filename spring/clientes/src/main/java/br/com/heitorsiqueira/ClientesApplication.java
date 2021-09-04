@@ -1,6 +1,5 @@
 package br.com.heitorsiqueira;
 
-import br.com.heitorsiqueira.model.entity.Cliente;
 import br.com.heitorsiqueira.model.repository.ClienteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
